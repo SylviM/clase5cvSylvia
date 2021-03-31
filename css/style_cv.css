@@ -1,0 +1,46 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    background-color: rgb(132, 131, 131);
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 2;
+    text-align: center;
+    font-size: 14px;
+}
+.img-cv{
+    width: auto;
+    height: 200px;
+}
+h1{
+    color: rgb(251, 251, 251);
+    background-color: rgb(40, 78, 110);
+    letter-spacing: 0.5em;
+}
+h2{
+    background-color: rgb(183, 183, 183);
+    letter-spacing: 0.5em;
+    color: rgb(40, 78, 110);
+    line-height: 1.5;
+    font-size: 18px;
+    font-weight: bold;
+}
+h2, ul, dl{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.item-detail{
+    font-weight: bold;
+    font-style: italic;
+}
+footer{
+    background-color: rgb(40, 78, 110);
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+.img-link{
+    width: 20px;
+    height: 20px;
+
+}
